@@ -1,30 +1,37 @@
-# Contoso IM Dashboard
+# Contoso Data Analytics Dashboard
 
-## 📊 Overview
-This project simulates an Information Management dashboard using fictional Contoso data.
+## Overview
+This project demonstrates a data analytics and information management dashboard built using fictional Contoso data.
 
-## 🎯 Objective
-The goal of this project is to support data-driven decision-making through clear and interactive visualizations.
+## Objective
+The goal is to transform raw data into actionable insights to support decision-making.
 
-## 🛠 Tools Used
-- Power BI  
-- Excel  
-- Data Modeling  
+## Tools Used
+- Power BI
+- Excel
+- Data Modeling
+- DAX
 
-## 📂 Dataset
-Simulated dataset including:
-- Beneficiaries  
-- Activities  
-- Services Delivered  
-- KPIs  
+## Dashboard Pages
+- Executive Overview
+- Geographic Analysis
+- Program Performance
 
-## 📈 Key Insights
-- Beneficiary distribution across locations  
-- Program performance vs targets  
-- Trends over time  
+## Key Metrics
+- Total Activities
+- Total Beneficiaries
+- Total Services
+- Achievement %
+- Performance Status
 
-## 📸 Dashboard Preview
-(Add screenshots here later)
+## Files
+- PBIX dashboard file
+- Excel dataset
+- Dashboard screenshots
 
-## 🔗 Live Dashboard
-(Add Power BI link here later)
+## Dashboard Preview
+![Executive Overview](overview.png)
+
+![Geographic Analysis](geographic-analysis.png)
+
+![Program Performance](program-performance.png)
