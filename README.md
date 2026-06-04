@@ -1,37 +1,62 @@
 # Contoso Data Analytics Dashboard
 
-## Overview
-This project demonstrates a data analytics and information management dashboard built using fictional Contoso data.
+## 📊 Overview
+This project demonstrates a data analytics dashboard built using simulated Contoso data.
 
-## Objective
-The goal is to transform raw data into actionable insights to support decision-making.
+## 🎯 Objective
+Transform raw data into actionable insights to support decision-making.
 
-## Tools Used
+## 🛠 Tools Used
 - Power BI
-- Excel
+- Excel (Kobo-style data collection)
 - Data Modeling
 - DAX
 
-## Dashboard Pages
+## 📌 Dashboard Pages
 - Executive Overview
 - Geographic Analysis
 - Program Performance
 
-## Key Metrics
+## 📊 Key Metrics
 - Total Activities
 - Total Beneficiaries
 - Total Services
 - Achievement %
 - Performance Status
 
-## Files
-- PBIX dashboard file
-- Excel dataset
-- Dashboard screenshots
+## 📂 Files Included
+- Power BI Dashboard (.pbix)
+- Excel Dataset (.xlsx)
+- Dashboard Screenshots
 
-## Dashboard Preview
-![Executive Overview](overview.png)
+## 📈 Excel Kobo Data Structure
+The project includes an Excel file designed as a Kobo-style data collection tool.
 
-![Geographic Analysis](geographic-analysis.png)
+The file contains structured sheets used for data collection and management:
 
-![Program Performance](program-performance.png)
+- **survey sheet** – contains the questionnaire structure including fields such as:
+  - Beneficiary name, gender, age, household information
+  - Location (Governorate, District, Sub-district)
+  - GPS coordinates
+  - Project-related questions and services
+
+- **choices sheet** – contains predefined options used in the survey:
+  - Gender categories
+  - Locations (Governorates, districts, subdistricts)
+  - Program types (Cash, Shelter, Education, etc.)
+  - Service types
+
+- **settings sheet** – contains metadata of the Kobo form such as:
+  - Form title
+  - Form ID
+  - Version
+
+This structure simulates a real-world Kobo data collection workflow used in humanitarian and IM contexts.
+
+## 📸 Dashboard Preview
+
+overview.png
+
+geographic-analysis.png
+
+program-performance.png
