@@ -16,11 +16,11 @@ Transform raw data into actionable insights to support decision-making.
 
 ## 📸 Dashboard Preview
 
-overview.png
+![](overview.png)
 
-geographic-analysis.png
+![](geographic-analysis.png)
 
-program-performance.png
+![](program-performance.png)
 
 ---
 
@@ -35,11 +35,12 @@ program-performance.png
 
 This project includes a Kobo-style Excel form used for structured data collection.
 
-### 📄 Kobo File Screenshots
+## 📄 Kobo File Screenshots
 
-SurveyKobo.png
+![](SurveyKobo.png)
 
-ChoicesKobo.png
+![](ChoicesKobo.png)
+``
 
 ### 📊 Kobo File Structure
 
